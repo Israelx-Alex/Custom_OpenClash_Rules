@@ -150,7 +150,7 @@ payload:
   - DOMAIN-SUFFIX,micu.hk
   - DOMAIN-SUFFIX,mifeng.plus
 #  - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,msftncsi.com
+#  - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,mslmc.net
   - DOMAIN-SUFFIX,mtaokj.com
   - DOMAIN-SUFFIX,mykuaidi.com
